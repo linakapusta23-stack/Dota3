@@ -17,9 +17,9 @@ Izveidot nākamās paaudzes MOBA spēli, kas apvieno klasisko Dota 2 pieredzi ar
 * **Metode:** Agile / Scrum (darbs divu nedēļu sprintos).
 
 ### 4. Komanda un lomas
-* **Product Owner:** (Vārds) – atbild par spēles vīziju un finansēm.
-* **Scrum Master:** (Vārds) – atbild par komandas procesiem un sapulcēm.
-* **Developers:** (Vārdi) – programmētāji, dizaineri un testētāji.
+* **Product Owner:** (Jakob) – atbild par spēles vīziju un finansēm.
+* **Scrum Master:** (Arkadiy) – atbild par komandas procesiem un sapulcēm.
+* **Developers:** (Tom Kruz) – programmētāji, dizaineri un testētāji.
 
 ### 5. Pašreizējais statuss
 * [x] Idejas definēšana
